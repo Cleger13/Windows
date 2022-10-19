@@ -1,0 +1,30 @@
+C:\Users\kedua\source\repos\Windows\bin\Debug\net6.0\Windows.exe
+C:\Users\kedua\source\repos\Windows\bin\Debug\net6.0\Windows.deps.json
+C:\Users\kedua\source\repos\Windows\bin\Debug\net6.0\Windows.runtimeconfig.json
+C:\Users\kedua\source\repos\Windows\bin\Debug\net6.0\Windows.dll
+C:\Users\kedua\source\repos\Windows\bin\Debug\net6.0\Windows.pdb
+C:\Users\kedua\source\repos\Windows\obj\Debug\net6.0\Windows.csproj.AssemblyReference.cache
+C:\Users\kedua\source\repos\Windows\obj\Debug\net6.0\Windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kedua\source\repos\Windows\obj\Debug\net6.0\Windows.AssemblyInfoInputs.cache
+C:\Users\kedua\source\repos\Windows\obj\Debug\net6.0\Windows.AssemblyInfo.cs
+C:\Users\kedua\source\repos\Windows\obj\Debug\net6.0\Windows.csproj.CoreCompileInputs.cache
+C:\Users\kedua\source\repos\Windows\obj\Debug\net6.0\Windows.dll
+C:\Users\kedua\source\repos\Windows\obj\Debug\net6.0\refint\Windows.dll
+C:\Users\kedua\source\repos\Windows\obj\Debug\net6.0\Windows.pdb
+C:\Users\kedua\source\repos\Windows\obj\Debug\net6.0\Windows.genruntimeconfig.cache
+C:\Users\kedua\source\repos\Windows\obj\Debug\net6.0\ref\Windows.dll
+C:\Users\kedua\OneDrive\Рабочий стол\Учеба\Прога\Windows\bin\Debug\net6.0\Windows.exe
+C:\Users\kedua\OneDrive\Рабочий стол\Учеба\Прога\Windows\bin\Debug\net6.0\Windows.deps.json
+C:\Users\kedua\OneDrive\Рабочий стол\Учеба\Прога\Windows\bin\Debug\net6.0\Windows.runtimeconfig.json
+C:\Users\kedua\OneDrive\Рабочий стол\Учеба\Прога\Windows\bin\Debug\net6.0\Windows.dll
+C:\Users\kedua\OneDrive\Рабочий стол\Учеба\Прога\Windows\bin\Debug\net6.0\Windows.pdb
+C:\Users\kedua\OneDrive\Рабочий стол\Учеба\Прога\Windows\obj\Debug\net6.0\Windows.csproj.AssemblyReference.cache
+C:\Users\kedua\OneDrive\Рабочий стол\Учеба\Прога\Windows\obj\Debug\net6.0\Windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kedua\OneDrive\Рабочий стол\Учеба\Прога\Windows\obj\Debug\net6.0\Windows.AssemblyInfoInputs.cache
+C:\Users\kedua\OneDrive\Рабочий стол\Учеба\Прога\Windows\obj\Debug\net6.0\Windows.AssemblyInfo.cs
+C:\Users\kedua\OneDrive\Рабочий стол\Учеба\Прога\Windows\obj\Debug\net6.0\Windows.csproj.CoreCompileInputs.cache
+C:\Users\kedua\OneDrive\Рабочий стол\Учеба\Прога\Windows\obj\Debug\net6.0\Windows.dll
+C:\Users\kedua\OneDrive\Рабочий стол\Учеба\Прога\Windows\obj\Debug\net6.0\refint\Windows.dll
+C:\Users\kedua\OneDrive\Рабочий стол\Учеба\Прога\Windows\obj\Debug\net6.0\Windows.pdb
+C:\Users\kedua\OneDrive\Рабочий стол\Учеба\Прога\Windows\obj\Debug\net6.0\Windows.genruntimeconfig.cache
+C:\Users\kedua\OneDrive\Рабочий стол\Учеба\Прога\Windows\obj\Debug\net6.0\ref\Windows.dll
